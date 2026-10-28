@@ -1,4 +1,4 @@
- **“Taylor’s University Smart Campus – EV Analytics & Machine Learning Dashboard”**
+###**“Taylor’s University Smart Campus – EV Analytics & Machine Learning Dashboard”**
 
 ### Project Overview
 This project is an interactive Streamlit web application developed for analysing Electric Vehicle (EV) charging activity on a smart campus. It combines data analytics, visualisation, and a machine-learning/rule-based risk analysis interface to help understand EV charging behaviour, energy usage, revenue, charger performance, and charging-session risks.
@@ -129,44 +129,9 @@ streamlit run app.py
 
 6. Open the local Streamlit URL shown in the terminal.
 
-### Application Features
-Create a concise feature list covering:
-
-- Interactive dashboard
-- KPI cards
-- EV charging analytics
-- Interactive charts
-- Data filtering
-- Charging-session table
-- Smart-grid analysis
-- Temperature and energy analysis
-- Charger-type comparison
-- Peak/non-peak analysis
-- Correlation analysis
-- EV charging risk analysis
-- Scenario testing
-- Risk score
-- Operator recommendations
-- Dark-mode UI
-- Taylor's University smart-campus themed interface
 
 ### Project Objective
-Write a short objective explaining that the application aims to turn EV charging-session data into understandable insights that can support monitoring of campus charging operations, energy usage, charger behaviour, revenue, and potential charging risks.
+Explaining that the application aims to turn EV charging-session data into understandable insights that can support monitoring of campus charging operations, energy usage, charger behaviour, revenue, and potential charging risks.
 
 ### Conclusion
-Write a short professional conclusion explaining that the project demonstrates how Python, data analytics, visualisation, Streamlit, and machine-learning/risk-analysis techniques can be combined into an interactive EV charging analytics application for a smart-campus environment.
-
-### Important Writing Rules
-- Make the README look like a genuine university student project, not an AI-generated corporate document.
-- Keep the language professional but natural.
-- Do not exaggerate the project's capabilities.
-- Do not claim the model is highly accurate unless accuracy is explicitly available in the project information.
-- Do not invent numerical performance results.
-- Do not add fake screenshots, links, contributors, licences, deployment URLs, or references.
-- Use clear Markdown headings.
-- Use bullet points where appropriate.
-- Keep it detailed enough for a GitHub repository but not unnecessarily long.
-- Include a clear project title at the top.
-- Include a short project description immediately below the title.
-- Make the README visually organised and easy for a lecturer to understand.
-- Return the **complete README.md content only**, ready to copy and paste into GitHub.
+Explaining that the project demonstrates how Python, data analytics, visualisation, Streamlit, and machine-learning/risk-analysis techniques can be combined into an interactive EV charging analytics application for a smart-campus environment.
