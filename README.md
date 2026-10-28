@@ -1,7 +1,4 @@
-<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/eee9e0f1-693e-44b8-9965-18ce5e8630ad" />
-
-
-<img width="186" height="238" alt="taylors_logo png" src="https://github.com/user-attachments/assets/e1a6e061-a2fe-46ee-977d-462be72c6617" />
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/1558dc63-70be-4a83-85bd-239941969fcd" />
 
 # Taylor’s University Smart Campus – EV Analytics & Machine Learning Dashboard
 
