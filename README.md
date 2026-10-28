@@ -1,6 +1,4 @@
-Create a professional, clean, student-level GitHub README.md for my Python/Streamlit project titled **“Taylor’s University Smart Campus – EV Analytics & Machine Learning Dashboard”**.
-
-Use the project information below as the source of truth. Do not invent features, technologies, datasets, results, or functionality that are not mentioned.
+ **“Taylor’s University Smart Campus – EV Analytics & Machine Learning Dashboard”**
 
 ### Project Overview
 This project is an interactive Streamlit web application developed for analysing Electric Vehicle (EV) charging activity on a smart campus. It combines data analytics, visualisation, and a machine-learning/rule-based risk analysis interface to help understand EV charging behaviour, energy usage, revenue, charger performance, and charging-session risks.
