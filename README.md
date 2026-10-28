@@ -1,4 +1,4 @@
-###**“Taylor’s University Smart Campus – EV Analytics & Machine Learning Dashboard”**
+### **“Taylor’s University Smart Campus – EV Analytics & Machine Learning Dashboard”**
 
 ### Project Overview
 This project is an interactive Streamlit web application developed for analysing Electric Vehicle (EV) charging activity on a smart campus. It combines data analytics, visualisation, and a machine-learning/rule-based risk analysis interface to help understand EV charging behaviour, energy usage, revenue, charger performance, and charging-session risks.
