@@ -1,5 +1,6 @@
 <img src="assets/taylors_logo.png" alt="Taylor's University Logo" width="120"/>
 
+
 # Taylor’s University Smart Campus – EV Analytics & Machine Learning Dashboard
 
 ## Project Overview
